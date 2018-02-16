@@ -11,8 +11,7 @@ Dans l'entrepôt , on peut mettre plusieurs commits et les pusher en une fois
 | git | Pour spécifier qu'on est en git |   |
 | cd | Pour aller à la racine du dossier |	|
 | cd ../nom du fichier.extension | Pour revenir en arrière et aller sur le fichier spécifié |	|
-| $ git init | Pour configurer les outils dont git aura besoin  
-git remote add origin URL_DE_TON_REPOSITORY git add . puis git commit -m "Initial commit" enfin git push -u origin master|   |
+| $ git init | Pour configurer les outils dont git aura besoin git remote add origin URL_DE_TON_REPOSITORY git add . puis git commit -m "Initial commit" enfin git push -u origin master|   |
 | $ pwd | Pour savoir où on est (dans le C :, ou dans P :…) |   |
 | $git status | Permet de savoir ce qu'il s'est passé depuis la dernière fois (si commit, si add...) |   |
 | $ git clone (+nom adresse du fichier à cloner) | Pour faire la copie du fichier sur lequel on veut travailler |   |

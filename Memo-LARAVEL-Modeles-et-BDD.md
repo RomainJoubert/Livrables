@@ -1,5 +1,5 @@
 # Mémo LARAVEL - Modèles et BDD
-## *Campus Numérique 2018 - Véronique ROUAULT*
+
 #
 
 # Les Modèles
